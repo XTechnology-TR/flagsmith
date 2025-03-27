@@ -122,7 +122,7 @@ google-auth-httplib2==0.0.4
     # via google-api-python-client
 googleapis-common-protos==1.52.0
     # via google-api-core
-gunicorn==20.0.4
+gunicorn==23.0.0
     # via -r requirements.in
 httplib2==0.19.0
     # via
