@@ -159,7 +159,7 @@ packaging==20.4
     # via
     #   -r requirements.in
     #   drf-yasg2
-protobuf==3.14.0
+protobuf==4.25.8
     # via
     #   google-api-core
     #   googleapis-common-protos
@@ -259,7 +259,7 @@ uritemplate==3.0.1
     #   coreapi
     #   drf-yasg2
     #   google-api-python-client
-urllib3==1.25.11
+urllib3==2.5.0
     # via
     #   botocore
     #   influxdb-client
