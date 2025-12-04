@@ -41,7 +41,7 @@ dataclasses==0.6
     # via -r requirements.in
 dj-database-url==0.5.0
     # via -r requirements.in
-django==2.2.24
+django==4.2.27
     # via
     #   -r requirements.in
     #   django-admin-sso
@@ -248,7 +248,7 @@ six==1.15.0
     #   twilio
 smsapi-client==2.4.3
     # via django-trench
-sqlparse==0.4.1
+sqlparse==0.5.4
     # via
     #   django
     #   django-debug-toolbar
