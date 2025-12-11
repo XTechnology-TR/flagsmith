@@ -259,7 +259,7 @@ uritemplate==3.0.1
     #   coreapi
     #   drf-yasg2
     #   google-api-python-client
-urllib3==1.25.11
+urllib3==2.6.0
     # via
     #   botocore
     #   influxdb-client
